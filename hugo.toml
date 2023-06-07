@@ -1,3 +1,13 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Fat Man's Touch"
+theme= "beautifulhugo"
+
+[Params]
+homeTitle = "Learning about Touch Rugby" # Set a different text for the header on the home page
+subtitle = "Touchy Subjects ahead"
+
+[Author]
+website = "touch.hbgregorian.com"
+email = "touch@hbgregorian.com"
+github = ""
